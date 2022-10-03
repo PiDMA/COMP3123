@@ -1,0 +1,19 @@
+{
+  "name": "week4",
+  "version": "1.0.0",
+  "description": "NodeJS Express Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "Server"
+  ],
+  "author": "David Pinto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
